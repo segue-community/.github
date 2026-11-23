@@ -16,9 +16,8 @@ This community was brought together for the 2026 [workshop "Updating urban segre
 4. to develop this new R package as an open-source project.
 5. to aim for a draft version of the package in 2027.
 
-
-## [!WARNING]
-> The material in this repository is work in progress!
+> [!WARNING]
+> The material in this repository is work in progress and it is being prepared for [workshop "Updating urban segregation computation with R"](https://erc-segue.nl/Workshop).
 
 ## Resources
 
