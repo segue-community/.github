@@ -5,7 +5,7 @@
 
 We are a diverse and interdisciplinary community of [25 scholars](https://github.com/orgs/segue-community/people) working together to update segregation computation with R by:
 - fostering research conversations on the state of segregation measurement and its relation to theories, data, scale and social attributes considered;
-- developing a [new R package](https://github.com/segue-community/segue) to assist with segregation measure selection, computation, visualization and/or analysis.
+- developing a new R package: [`segue`](https://github.com/segue-community/segue) to assist with segregation measure selection, computation, visualization and/or analysis.
 - collaborating on comparative research, theory and methodology development.
 
 This community was brought together for the 2026 [workshop "Updating urban segregation computation with R"](https://erc-segue.nl/Workshop), organised by [Rbanism](https://github.com/Rbanism), funded by the [ERC project SEGUE](https://github.com/SEGUE-Project) and led by [Clémentine Cottineau-Mugadza](https://github.com/ClementineCttn). The workshop took place on 9-13th November 2026 at TU Delft, in the Netherlands. During this workshop, we agreed:
